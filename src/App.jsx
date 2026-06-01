@@ -24,7 +24,7 @@ const DEFAULT_PRODUCTS = [
     id: "1",
     name: "Tacos",
     category: "Tacos",
-    price: "25",
+    price: "115",
     img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
     desc: "Tortilla recién hecha, carne al carbón, cilantro, cebolla y salsa de la casa."
   },
@@ -32,7 +32,7 @@ const DEFAULT_PRODUCTS = [
     id: "2",
     name: "Tortas",
     category: "Tortas",
-    price: "75",
+    price: "70",
     img: "https://color-inspiration-ai.lovable.app/assets/torta-Cv_4YxIm.jpg",
     desc: "Pan crujiente relleno hasta el tope. La que mata el hambre de verdad."
   },
@@ -40,7 +40,7 @@ const DEFAULT_PRODUCTS = [
     id: "3",
     name: "Alambres",
     category: "Alambres",
-    price: "130",
+    price: "200",
     img: "https://color-inspiration-ai.lovable.app/assets/alambre-Dc9n9I27.jpg",
     desc: "Carne, pimientos, cebolla y queso fundido. Para compartir (o no)."
   },
@@ -48,7 +48,7 @@ const DEFAULT_PRODUCTS = [
     id: "4",
     name: "Gringas",
     category: "Más",
-    price: "65",
+    price: "85",
     img: "https://color-inspiration-ai.lovable.app/assets/gringa-DI0euVLW.jpg",
     desc: "Tortilla de harina, queso derretido y pastor. Simple. Perfecto."
   },
@@ -56,7 +56,7 @@ const DEFAULT_PRODUCTS = [
     id: "5",
     name: "Burritos",
     category: "Burritos",
-    price: "95",
+    price: "110",
     img: "https://color-inspiration-ai.lovable.app/assets/burrito-sdhvJfWk.jpg",
     desc: "Grandes, generosos, envueltos como Dios manda."
   },
@@ -71,7 +71,7 @@ const DEFAULT_PRODUCTS = [
 ];
 
 const DEFAULT_CONFIG = {
-  whatsappNumber: "525500000000",
+  whatsappNumber: "525633227404",
   hours: "Lun — Dom · 6:00 PM — 1:00 AM",
   address: "Av. Palo Solo, esquina del campo",
   subAddress: "Junto a Plomería El Soplete · Naucalpan, Edo. de México",
