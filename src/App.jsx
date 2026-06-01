@@ -22,51 +22,75 @@ import {
 const DEFAULT_PRODUCTS = [
   {
     id: "1",
-    name: "Tacos",
+    name: "Taco de Pastor",
     category: "Tacos",
     price: "115",
     img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
-    desc: "Tortilla recién hecha, carne al carbón, cilantro, cebolla y salsa de la casa."
+    desc: "Tortilla recién hecha con pastor al carbón, piña, cilantro, cebolla y salsa de la casa."
   },
   {
     id: "2",
-    name: "Tortas",
+    name: "Taco de Suadero",
+    category: "Tacos",
+    price: "115",
+    img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
+    desc: "Tortilla recién hecha con suadero tierno confitado, cilantro, cebolla y salsa de la casa."
+  },
+  {
+    id: "3",
+    name: "Taco de Longaniza",
+    category: "Tacos",
+    price: "115",
+    img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
+    desc: "Tortilla recién hecha con longaniza dorada a la plancha, cilantro, cebolla y salsa de la casa."
+  },
+  {
+    id: "4",
+    name: "Taco Campechano",
+    category: "Tacos",
+    price: "115",
+    img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
+    desc: "Tortilla recién hecha con mezcla de suadero y longaniza, cilantro, cebolla y salsa de la casa."
+  },
+  {
+    id: "5",
+    name: "Taco de Tripa",
+    category: "Tacos",
+    price: "115",
+    img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
+    desc: "Tortilla recién hecha con tripa dorada y crujiente, cilantro, cebolla y salsa de la casa."
+  },
+  {
+    id: "6",
+    name: "Gringa",
+    category: "Gringa",
+    price: "85",
+    img: "https://color-inspiration-ai.lovable.app/assets/gringa-DI0euVLW.jpg",
+    desc: "Tortilla de harina, queso derretido y pastor. Simple. Perfecto."
+  },
+  {
+    id: "7",
+    name: "Torta",
     category: "Tortas",
     price: "70",
     img: "https://color-inspiration-ai.lovable.app/assets/torta-Cv_4YxIm.jpg",
     desc: "Pan crujiente relleno hasta el tope. La que mata el hambre de verdad."
   },
   {
-    id: "3",
-    name: "Alambres",
+    id: "8",
+    name: "Burrito",
+    category: "Burritos",
+    price: "110",
+    img: "https://color-inspiration-ai.lovable.app/assets/burrito-sdhvJfWk.jpg",
+    desc: "Grande, generoso, envuelto como Dios manda."
+  },
+  {
+    id: "9",
+    name: "Alambre",
     category: "Alambres",
     price: "200",
     img: "https://color-inspiration-ai.lovable.app/assets/alambre-Dc9n9I27.jpg",
     desc: "Carne, pimientos, cebolla y queso fundido. Para compartir (o no)."
-  },
-  {
-    id: "4",
-    name: "Gringas",
-    category: "Más",
-    price: "85",
-    img: "https://color-inspiration-ai.lovable.app/assets/gringa-DI0euVLW.jpg",
-    desc: "Tortilla de harina, queso derretido y pastor. Simple. Perfecto."
-  },
-  {
-    id: "5",
-    name: "Burritos",
-    category: "Burritos",
-    price: "110",
-    img: "https://color-inspiration-ai.lovable.app/assets/burrito-sdhvJfWk.jpg",
-    desc: "Grandes, generosos, envueltos como Dios manda."
-  },
-  {
-    id: "6",
-    name: "Volcanes",
-    category: "Más",
-    price: "45",
-    img: "https://color-inspiration-ai.lovable.app/assets/tacos-G3OVRV4Q.jpg",
-    desc: "Tostada de queso fundido coronada con la carne de tu elección."
   }
 ];
 
